@@ -1,7 +1,7 @@
 {
-  "name": "gbreder-nodejs-template",
+  "name": "{{name}}",
   "version": "1.0.0",
-  "description": "",
+  "description": "{{description}}",
   "main": "index.js",
   "scripts": {
     "dev": "tsx watch src/server.ts",

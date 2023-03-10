@@ -7,7 +7,7 @@
     },
     "description": {
       "type": "input",
-      "required": true,
+      "required": false,
       "message": "Project Description"
     }
   },
