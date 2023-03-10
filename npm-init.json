@@ -5,6 +5,5 @@
       "required": false,
       "message": "Project Description"
     }
-  },
-  "completeMessage": "To get started:\n  cd {{name}}\n  npm install\n  npm start"
+  }
 }
